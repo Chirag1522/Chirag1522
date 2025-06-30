@@ -17,11 +17,6 @@
 
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <td colspan="2" align="center">
-      <img src="rocket.gif" alt="Banner" width="75%" style="height: auto;" />
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Chirag1522&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" width="95%" />
@@ -196,9 +191,6 @@
 
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <td width="50%" align="center">
-      <img src="goku.gif" width="100%" style="max-width: 500px;" />
-    </td>
     <td width="50%" align="center">
       <h1>🎨 Random Quotes</h1>
       <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=default&layout=default&font=Redressed&quoteType=random&bgColor=black&fontColor=yellow&borderColor=orange" />
