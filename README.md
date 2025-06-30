@@ -1,118 +1,24 @@
-<h1 align="center">Hi 👋, I'm Chirag Dulera</h1>
+# 💫 About Me:
+Welcome Devs,<br>Hey 👋 I'm Chirag Dulera<br>A passionate Full Stack Developer & Blockchain Explorer<br>🏆 1x Hackathon Winner (Innov8 3.0)<br>🔭 Currently building: MetaTrace – Cross-chain NFT dApp<br>👯 Collaborating on: Web3 and Blockchain<br>🤝 Seeking help with: Substrate parachains and XCM testing<br>🌱 Learning: Polkadot SDK, Rust, Solidity, XCM<br>💬 Ask me about: Full-stack, Smart Contracts, Blockchains, Crypto, web3<br>⚡ Fun fact: I debug better with coffee and late-night music<br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+1x+Hackathon+Winner;Blockchain+Explorer+%7C+Solidity+%7C+Substrate+%7C+XCM;Building+Cross-chain+dApps+%7C+Web3%2C+Polkadot+%2C+Next.js" alt="Typing SVG" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chirag_84__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-dulera-416134290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragdulera1@gmail.com) 
 
-## 🧠 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chirag1522&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chirag1522&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag1522&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 Engineering Student & Developer passionate about decentralized tech
-- 🏆 1x Hackathon Winner (Polkadot India)
-- 🔭 Currently working on full-stack and blockchain projects like MetaTrace
-- 🌱 Learning advanced Polkadot SDK, Rust, and smart contract bridging
-- 💬 Ask me about web3, full stack development, Solidity, Substrate, or XCM
-- 📫 Reach me at: **chiragdulera@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## 🚀 Featured Projects
-
-### 🔗 [MetaTrace](https://github.com/Chirag1522/MetaTrace)
-> A cross-chain NFT sharing system built on Polkadot & Ethereum.  
-> Features include NFT minting, burning, and XCM-based NFT migration.  
-> 🛠 Tech: Solidity · Substrate · XCM · IPFS · Next.js
-
-### 🌱 [Ecovisit](https://github.com/Chirag1522/ecovisit)
-> An eco-conscious visitor log app that rewards users for visiting eco-friendly places.  
-> Combines sustainability with gamification and geolocation.  
-> 🛠 Tech: React · Node.js · MongoDB · Vercel
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chirag1522&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Chirag1522&icon=4&color=1)](https://visitcount.itsvg.in)
 
-## 💼 Tech Stack
-
-<table>
-  <tr>
-    <td colspan="6" align="center"><strong>🌐 Web Development</strong></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/></td>
-    <td><img src="https://img.icons8.com/plasticine/48/react.png" title="React"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js"/></td>
-    <td><img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/></td>
-    <td><img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/></td>
-    <td><img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><strong>💠 Blockchain Development</strong></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=026" width="40" title="Ethereum"/></td>
-    <td><img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=026" width="40" title="Polkadot"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="40" title="Solidity"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/17237088?s=48&v=4" title="Web3.js"/></td>
-    <td><img src="https://raw.githubusercontent.com/paritytech/substrate/master/docs/images/substrate-logo.png" width="40" title="Substrate"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/95767170?s=48&v=4" title="Talisman Wallet"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><strong>🧩 Backend & APIs</strong></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/express-js.png" title="Express.js"/></td>
-    <td><img src="https://img.icons8.com/color/48/django.png" title="Django"/></td>
-    <td><img src="https://raw.githubusercontent.com/microsoft/fastapi/master/docs/img/icon-white.svg" width="40" title="FastAPI"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/console.png" title="Shell/Bash"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><strong>💾 Databases & Tools</strong></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/48/mysql-logo.png" title="MySQL"/></td>
-    <td><img src="https://img.icons8.com/color/48/git.png" title="Git"/></td>
-    <td><img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" title="Vercel"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/linux.png" title="Linux"/></td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag1522&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag1522&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag1522&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chirag1522&theme=onedark" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://your-portfolio-link.com)
-
----
-
-> 🔥 *“Code. Connect. Decentralize.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
