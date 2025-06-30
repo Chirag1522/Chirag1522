@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Engineering+Student+%7C+1x+Hackathon+Winner;Web3+%7C+Blockchain+%7C+Metadata+Forensics;Polkadot+%7C+XCM+%7C+Cross-chain+NFTs+Explorer" />
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+1x+Hackathon+Winner;Blockchain+Explorer+%7C+Polkadot+%7C+Solidity+%7C+Substrate;Building+Next-Gen+dApps+with+Web3%2C+XCM%2C+IPFS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,26 +10,23 @@
 
 ## 🧠 About Me
 
-- 🔭 Working on **MetaTrace** — cross-chain NFT sharing via Polkadot XCM and Solidity.
-- 📚 Exploring Substrate, PolkaVM, and AI-powered forensics.
-- 🛠️ Building dApps with **Next.js**, **Solidity**, **Web3.js**, and **Rust**.
-- 🤝 Collaborating on open-source and decentralized tech for real-world impact.
-- 🥇 Winner of Polkadot Hackathon India — building for the future of on-chain data.
-- 📫 Reach me: **chiragdulera@gmail.com**
+- 🔭 Currently building decentralized dApps using Polkadot & Solidity
+- 🌱 Learning more about **XCM**, **Substrate**, and **Rust**
+- 💬 Ask me about full-stack, Web3, or smart contracts
+- 🥇 1x Hackathon Winner – Polkadot India
+- 📫 Reach me at: **chiragdulera@gmail.com**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [🔗 MetaTrace](https://github.com/Chirag1522/metatrace): Cross-chain NFT bridge using Substrate + Solidity.
-- [🧪 File Forensics AI](https://github.com/Chirag1522/file-forensics-ai): Anomaly detection for tampered media files.
-- [📦 DecentraStore](https://github.com/Chirag1522/decentra-store): IPFS-based storage with NFT proof-of-ownership.
+- [🔗 MetaTrace](https://github.com/Chirag1522/metatrace) – Cross-chain NFT bridge using Substrate + Solidity
+- [📦 DecentraStore](https://github.com/Chirag1522/decentra-store) – IPFS-based file manager with blockchain metadata proof
+- [🌐 PolkaXCM-Demo](https://github.com/Chirag1522/polkaxcm-demo) – XCM message passing example using Substrate SDK
 
 ---
 
-## 💻 Tech Stack
-
-<h2>💼 Tech Stack</h2>
+## 💼 Tech Stack
 
 <table>
   <tr>
@@ -84,16 +80,7 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 1x Hackathon Winner — **Polkadot India 2024**
-- 🧠 Built AI Forensics Engine for metadata tampering detection
-- 🧩 Contributed to open-source Substrate pallets for NFTs
-- 🌐 Featured in DoraHacks showcase
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chirag1522&show_icons=true&theme=tokyonight" />
@@ -105,7 +92,7 @@
 
 ---
 
-## 🏗️ Contributions & Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chirag1522&theme=onedark" />
@@ -113,12 +100,12 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://your-portfolio-link.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://your-portfolio-link.com)
 
 ---
 
-> 🔥 *“Turning tampered files into trusted proofs. One NFT at a time.”*
+> 🔥 *“Building powerful, decentralized tools for a transparent tomorrow.”*
