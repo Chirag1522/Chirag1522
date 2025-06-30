@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+1x+Hackathon+Winner;Blockchain+Explorer+%7C+Polkadot+%7C+Solidity+%7C+Substrate;Building+Next-Gen+dApps+with+Web3%2C+XCM%2C+IPFS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+1x+Hackathon+Winner;Blockchain+Explorer+%7C+Solidity+%7C+Substrate+%7C+XCM;Building+Cross-chain+dApps+%7C+Web3%2C+Polkadot+%2C+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,19 +10,26 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building decentralized dApps using Polkadot & Solidity
-- 🌱 Learning more about **XCM**, **Substrate**, and **Rust**
-- 💬 Ask me about full-stack, Web3, or smart contracts
-- 🥇 1x Hackathon Winner – Polkadot India
+- 👨‍💻 Engineering Student & Developer passionate about decentralized tech
+- 🏆 1x Hackathon Winner (Polkadot India)
+- 🔭 Currently working on full-stack and blockchain projects like MetaTrace
+- 🌱 Learning advanced Polkadot SDK, Rust, and smart contract bridging
+- 💬 Ask me about web3, full stack development, Solidity, Substrate, or XCM
 - 📫 Reach me at: **chiragdulera@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-- [🔗 MetaTrace](https://github.com/Chirag1522/metatrace) – Cross-chain NFT bridge using Substrate + Solidity
-- [📦 DecentraStore](https://github.com/Chirag1522/decentra-store) – IPFS-based file manager with blockchain metadata proof
-- [🌐 PolkaXCM-Demo](https://github.com/Chirag1522/polkaxcm-demo) – XCM message passing example using Substrate SDK
+### 🔗 [MetaTrace](https://github.com/Chirag1522/MetaTrace)
+> A cross-chain NFT sharing system built on Polkadot & Ethereum.  
+> Features include NFT minting, burning, and XCM-based NFT migration.  
+> 🛠 Tech: Solidity · Substrate · XCM · IPFS · Next.js
+
+### 🌱 [Ecovisit](https://github.com/Chirag1522/ecovisit)
+> An eco-conscious visitor log app that rewards users for visiting eco-friendly places.  
+> Combines sustainability with gamification and geolocation.  
+> 🛠 Tech: React · Node.js · MongoDB · Vercel
 
 ---
 
@@ -34,8 +41,8 @@
   </tr>
   <tr align="center">
     <td><img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/></td>
-    <td><img src="https://img.icons8.com/color/48/react-native.png" title="React"/></td>
-    <td><img src="https://img.icons8.com/fluency/48/nextjs.png" title="Next.js"/></td>
+    <td><img src="https://img.icons8.com/plasticine/48/react.png" title="React"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js"/></td>
     <td><img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/></td>
     <td><img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/></td>
     <td><img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/></td>
@@ -45,12 +52,12 @@
     <td colspan="6" align="center"><strong>💠 Blockchain Development</strong></td>
   </tr>
   <tr align="center">
-    <td><img src="https://img.icons8.com/ios-filled/50/ethereum.png" title="Ethereum"/></td>
-    <td><img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png" width="48" title="Polkadot"/></td>
-    <td><img src="https://seeklogo.com/images/S/solidity-logo-4AE09DDEDB-seeklogo.com.png" width="48" title="Solidity"/></td>
+    <td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=026" width="40" title="Ethereum"/></td>
+    <td><img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=026" width="40" title="Polkadot"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="40" title="Solidity"/></td>
     <td><img src="https://avatars.githubusercontent.com/u/17237088?s=48&v=4" title="Web3.js"/></td>
+    <td><img src="https://raw.githubusercontent.com/paritytech/substrate/master/docs/images/substrate-logo.png" width="40" title="Substrate"/></td>
     <td><img src="https://avatars.githubusercontent.com/u/95767170?s=48&v=4" title="Talisman Wallet"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/69683179?s=48&v=4" title="Substrate"/></td>
   </tr>
 
   <tr>
@@ -58,11 +65,11 @@
   </tr>
   <tr align="center">
     <td><img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/></td>
-    <td><img src="https://img.icons8.com/ios/48/express-js.png" title="Express.js"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/></td>
-    <td><img src="https://img.icons8.com/color/48/fastapi.png" title="FastAPI"/></td>
-    <td><img src="https://img.icons8.com/fluency/48/postman-api.png" title="Postman"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/48/terminal.png" title="Shell"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/express-js.png" title="Express.js"/></td>
+    <td><img src="https://img.icons8.com/color/48/django.png" title="Django"/></td>
+    <td><img src="https://raw.githubusercontent.com/microsoft/fastapi/master/docs/img/icon-white.svg" width="40" title="FastAPI"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/console.png" title="Shell/Bash"/></td>
   </tr>
 
   <tr>
@@ -73,8 +80,8 @@
     <td><img src="https://img.icons8.com/ios-filled/48/mysql-logo.png" title="MySQL"/></td>
     <td><img src="https://img.icons8.com/color/48/git.png" title="Git"/></td>
     <td><img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub"/></td>
-    <td><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/vercel.png" title="Vercel"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/48/linux.png" title="Linux"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" title="Vercel"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/linux.png" title="Linux"/></td>
   </tr>
 </table>
 
@@ -92,7 +99,7 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chirag1522&theme=onedark" />
@@ -100,7 +107,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
@@ -108,4 +115,4 @@
 
 ---
 
-> 🔥 *“Building powerful, decentralized tools for a transparent tomorrow.”*
+> 🔥 *“Code. Connect. Decentralize.”*
