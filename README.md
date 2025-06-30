@@ -30,16 +30,57 @@
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Talisman](https://img.shields.io/badge/Talisman-Wallet-orange?style=for-the-badge&logo=ethereum)
+<h2>💼 Tech Stack</h2>
+
+<table>
+  <tr>
+    <td colspan="6" align="center"><strong>🌐 Web Development</strong></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/></td>
+    <td><img src="https://img.icons8.com/color/48/react-native.png" title="React"/></td>
+    <td><img src="https://img.icons8.com/fluency/48/nextjs.png" title="Next.js"/></td>
+    <td><img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/></td>
+    <td><img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/></td>
+    <td><img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="6" align="center"><strong>💠 Blockchain Development</strong></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.icons8.com/ios-filled/50/ethereum.png" title="Ethereum"/></td>
+    <td><img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png" width="48" title="Polkadot"/></td>
+    <td><img src="https://seeklogo.com/images/S/solidity-logo-4AE09DDEDB-seeklogo.com.png" width="48" title="Solidity"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/17237088?s=48&v=4" title="Web3.js"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/95767170?s=48&v=4" title="Talisman Wallet"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/69683179?s=48&v=4" title="Substrate"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="6" align="center"><strong>🧩 Backend & APIs</strong></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/></td>
+    <td><img src="https://img.icons8.com/ios/48/express-js.png" title="Express.js"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/></td>
+    <td><img src="https://img.icons8.com/color/48/fastapi.png" title="FastAPI"/></td>
+    <td><img src="https://img.icons8.com/fluency/48/postman-api.png" title="Postman"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/48/terminal.png" title="Shell"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="6" align="center"><strong>💾 Databases & Tools</strong></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/48/mysql-logo.png" title="MySQL"/></td>
+    <td><img src="https://img.icons8.com/color/48/git.png" title="Git"/></td>
+    <td><img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub"/></td>
+    <td><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/vercel.png" title="Vercel"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/48/linux.png" title="Linux"/></td>
+  </tr>
+</table>
 
 ---
 
